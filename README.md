@@ -38,4 +38,9 @@ curl -X DELETE localhost:8080/transacao
 ```
 
 ---
-Desenvolvido por [Carlos Henrique](https://github.com/ccamposhe).
+## 👤 Autor
+
+Desenvolvido por **Carlos Henrique Campos**.
+
+💼 LinkedIn: [Ccamposhe](https://www.linkedin.com/in/ccamposhe/)
+💻 GitHub: [@Ccamposhe](https://github.com/Ccamposhe)
